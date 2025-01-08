@@ -13,7 +13,9 @@ While the affective effect of music has been long recognized in every human comm
 ## Directory structure
 
 `./docs/`  for documents, the lecture slide
+
 `./code/`  for custom functions and scripts in MATLAB
+
 `./data/`  for data acquired from the live-experiment
 
 
