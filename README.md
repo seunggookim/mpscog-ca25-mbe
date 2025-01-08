@@ -1,5 +1,5 @@
 # mpscog-ca25-mbe
-This Git repo is to distribute pedagogical materials for a workshop given in Dec 5, 2024, Berlin.
+This Git repo is to distribute pedagogical materials for a workshop (in the framework of Cognition Academy, Max Planck School of Cognition) given on 5 December 2024, Berlin.
 
 ## Title
 Music, Brain, and Emotions: An Engaging Self-Experiment
