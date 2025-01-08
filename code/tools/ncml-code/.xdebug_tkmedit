@@ -1,0 +1,44 @@
+tkmedit started: Wed Nov 30 14:26:05 2022
+
+	tkmedit bert T1.mgz -interface /home/sgkim/bert/scripts/tkm_axial.tcl 
+
+$Id: tkmedit.c,v 1.348 2014/11/06 16:47:49 greve Exp $ $Name: stable6 $
+Set user home dir to /home/sgkim/git/NCML-code
+Set subject home dir to /home/sgkim/bert
+Using interface file /home/sgkim/bert/scripts/tkm_axial.tcl
+Tcl_Init returned 1: Can't find a usable init.tcl in the following directories: 
+    /usr/pubsw/packages/tcltktixblt/current/lib/tcl8.4
+
+
+
+This probably means that Tcl wasn't installed properly.
+
+ERROR: Initializing Tcl
+   Error initializing Tcl
+Cmd: FormattedErrorDlog "Initializing Tcl" "Error initializing Tcl" "For some reason, Tcl couldn't be initialized. Possible reasons include it not being installed, installed incorrectly, or the TCL_LIBRARY environment variable not being set or being set incorrectly."
+	Command did not return OK.
+	Result: invalid command name "FormattedErrorDlog"
+Error in  (line 6205)
+	while Setting global interpreter
+	No error code.
+xDebug stack (length: 2)
+    01: main()
+    01: Setting global interpreter
+  00: 
+  00: 
+Error in  (line 6205)
+	while Setting global interpreter
+	No error code.
+xDebug stack (length: 2)
+    01: main()
+    01: Setting global interpreter
+  00: 
+  00: 
+Error in  (line 6205)
+	while Setting global interpreter
+	Error 5: Couldn't initialize Tcl.
+xDebug stack (length: 2)
+    01: main()
+    01: Setting global interpreter
+  00: 
+  00: 

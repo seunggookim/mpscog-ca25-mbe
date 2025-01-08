@@ -12,8 +12,10 @@ While the affective effect of music has been long recognized in every human comm
 
 ## Directory structure
 
-### Synchronized
-`./docs/`  for documents (notes, presentation slides, manuscripts, other human-readable files)
+`./docs/`  for documents, the lecture slide
+`./code/`  for custom functions and scripts in MATLAB
+`./data/`  for data acquired from the live-experiment
+
 
 ## MATLAB online
 Analysis scripts are shared via MATLAB Online. If you don't have access to a MATLAB license, you can run MATLAB live scripts on MATLAB Online Basic (free for 30 hours/month) with a free MathWorks account without a license:
